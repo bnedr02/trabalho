@@ -1,5 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Rubik&display=swap");
+:root {
+  --primary: #2563eb;      /* azul elegante */
+  --background: #f9fafb;   /* fundo claro */
+  --card: #ffffff;
+  --text: #111827;
+  --text-light: #6b7280;
+  --border: #e5e7eb;
+}
